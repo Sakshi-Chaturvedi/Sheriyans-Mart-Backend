@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": "fc2pV2alKqg2GdZ7pelb1",
+      "title": "Watch",
+      "price": "4000",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab atque est voluptas quo odit, dolore deserunt ullam ad corporis adipisci?",
+      "category": "Man's Accessories",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/336b25dd-7ea9-49f6-ac68-85bf211c641b.__CR0,39,1500,928_PT0_SX970_V1___.jpg"
+    },
+    {
+      "id": "BAiIW5qwkAD_B7VUHB-dR",
+      "title": "Pant",
+      "price": "300",
+      "description": "The shirt looks amazing , the fabric of the shirt is fabulous, it is hand washable shirt ,don't need to dry it. ",
+      "category": "Men's Wear",
+      "image": "https://img0.junaroad.com/uiproducts/19144190/zoom_0-1673275594.jpg"
+    },
+    {
+      "id": "GBht1hZpxc7e5nCp4A7wt",
+      "title": "T-Shirts",
+      "price": "500",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": "zHi8uLZgfSOiIcrHgS90F",
+      "title": "Jacket",
+      "price": "5000",
+      "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": "gvOhxNH9LFJKEEwYwv8x_",
+      "title": "Slim Fit",
+      "price": "550",
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": "BbPQcMcVihTFmG1FYkZaZ",
+      "title": "Winter Coats",
+      "price": "6000",
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "Women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "KmtTXdfUNZGcy76xr89g3",
+      "regUsername": "admin-master",
+      "regEmail": "admi@gmail.com",
+      "regPassword": "123456",
+      "isAdmin": true
+    },
+    {
+      "id": "eXUAKHXS_MaxjLjYoQSww",
+      "regUsername": "chaturvedi",
+      "regEmail": "chturvedi@gmail.com",
+      "regPassword": "1131",
+      "isAdmin": false
+    },
+    {
+      "id": "t1iblcs_e-RdGtY7kCrg3",
+      "regUsername": "sakshi",
+      "regEmail": "sakshi@gmail.com",
+      "regPassword": "87646",
+      "isAdmin": false
+    },
+    {
+      "id": "zcVL5JohXTgfpifapGOvN",
+      "regUsername": "Hello baby",
+      "regEmail": "Hellobaby@gmail.com",
+      "regPassword": "789",
+      "isAdmin": false
+    },
+    {
+      "id": "CBU0ejNVDJ0s_3ztEmxQq",
+      "regUsername": "utsav",
+      "regEmail": "utsav@gmail.com",
+      "regPassword": "456",
+      "isAdmin": false
+    },
+    {
+      "id": "4q19Zb6_koPp_Du7250Vp",
+      "regUsername": "Lovy",
+      "regEmail": "lovy@gmail.com",
+      "regPassword": "123",
+      "isAdmin": false
+    }
+  ],
+  "cart": [
+    {
+      "id": "BbPQcMcVihTFmG1FYkZaZ",
+      "title": "Winter Coats",
+      "price": "6000",
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+      "category": "Women's clothing",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "qty": 1
+    }
+  ]
+}
